@@ -1,0 +1,17 @@
+,,,,,,,
+Sites,Metric,Total Tags,Comment  Count,Max Nesting Depth,Empty Tag Count,Total Attributes,File Size / Bytes
+blogy,Before Optimization,472,14,14,13,853,43163
+,After Optimization,469,0,14,10,847,27308
+,Change,-3,-14,0,-3,-6,-15855
+,,,,,,,
+eduland,Before Optimization,247,13,13,28,273,15644
+,After Optimization,244,0,13,25,268,9738
+,Change,-3,-13,0,-3,-5,-5906
+,,,,,,,
+grilli,Before Optimization,465,21,13,39,769,36796
+,After Optimization,461,0,13,35,763,26142
+,Change,-4,-21,0,-4,-6,-10654
+,,,,,,,
+woodex,Before Optimization,659,16,14,83,1092,51577
+,After Optimization,655,0,14,80,1084,32768
+,Change,-4,-16,0,-3,-8,-18809
